@@ -27,11 +27,15 @@ Although it might seem a small project, yet I learned from it alot. Here are som
 
 ## Feedback
 
-Fell free to copy or edit the code. If you have any feedback, or you found any issues, contact me on my [Email](gergesbadr77@gmail.com) 
+Fell free to copy or edit the code. If you have any feedback, or you found any issues, contact me on my Email => gergesbadr77@gmail.com 
 
 ## Tech Stack
 
 HTML, Tailwindcss and JS
+
+## Demo
+
+Here is the live-view => https://gergesbadr.github.io/bookmark/
 
 ## 🚀 About Me
 I'm just a learner Front-End developer, doing some projects here and there to make my skills better!
